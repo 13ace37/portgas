@@ -1,0 +1,1 @@
+module.exports = (r, t = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789") => { for (var a = "", e = t.length, h = 0; h < r; h++)a += t.charAt(Math.floor(Math.random() * e)); return a };

@@ -1,6 +1,6 @@
 {
   "name": "portgas",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Completely unnecessary additions, for which I don't want to waste my valuable life time writing them every time again.",
   "main": "src/index.js",
   "scripts": {
